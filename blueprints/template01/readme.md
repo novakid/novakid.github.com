@@ -4,4 +4,4 @@ Hãy tưởng tượng bạn có thể làm gì với template này...
 
 Các mẫu dưới đây có thể là một khởi đầu tốt cho hình dung của bạn
 
-| ![example-1](http://placehold.it/240x150) | ![example-2](http://placehold.it/240x150) |
+![example-1](http://placehold.it/240x150) ![example-2](http://placehold.it/240x150)  ![example-3](http://placehold.it/240x150)
